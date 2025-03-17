@@ -1,6 +1,5 @@
 <h1 align="center"> Desafio Amigo Screto </h1>
 
-![imagem da capa do amigo secreto. Um amigo entregando um presente para outro amigo](https://github.com/IgorEduss/challenge-amigo-secreto_pt/blob/main/assets/amigo_secreto.jpg)
 <img src="https://github.com/IgorEduss/challenge-amigo-secreto_pt/blob/main/assets/amigo_secreto.jpg" alt="imagem da capa do amigo secreto. Um amigo entregando um presente para outro amigo" align="center">
 
 ### Do que se trata?
