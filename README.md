@@ -7,12 +7,15 @@ Este é o desafio Amigo Secreto, que foi proposto aos participantes da formaçã
 
 ### Como funciona site?
 Primeio, deve-se adicionar os nomos dos amigos para que se forma uma lista de nomes. Para cada nome escrito, deve clicar no botão "Adicionar".
+
 ![image. Print de demonstração](https://github.com/user-attachments/assets/9c58f44e-0e53-4524-99e7-963d9a515e06)
 
 Os nomes serão expostos para que o usuário possa acompanhar a evolução da lista.
+
 ![image. Print de demonstração](https://github.com/user-attachments/assets/0c71df74-e9ec-4c95-8aba-e65f2a894097)
 
 Após completar a lista com os nomes necessários, o usuário pode clicar em "Sortear Amigo". Dessa forma, um dos nomes da lista criada aparecerá em destaque como o amigo aleatoriamente sorteado.
+
 ![image. Print de demonstração](https://github.com/user-attachments/assets/4fca9d97-07bf-4021-8180-236295c29515)
 
 Caso queira sortear novamente, só preciso continuar precionando o botão "Sortear Amigo".
